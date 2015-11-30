@@ -1,3 +1,7 @@
+#Changes
+
+* Add support for observable _destroy like knockout [#170](https://github.com/knockout/knockout/issues/170)
+
 #Knockout Validation
 A KnockoutJS Plugin for model and property validation
 
